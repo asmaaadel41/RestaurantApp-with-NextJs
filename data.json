@@ -1,0 +1,54 @@
+{
+  "meals": [
+    {
+      "id": 1,
+      "image": "https://www.bing.com/th?id=OIP.v7nKxpbPY0aXmXur3XgZsgHaEo&w=316&h=197&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+      "title": "Vegetable Pho",
+      "description": "Ginza Pho is a spicy, light and aromatic noodle soup served piping hot.",
+      "price": "$7"
+    },
+    {
+      "id": 2,
+      "image": "https://www.bing.com/th?id=OIP.v7nKxpbPY0aXmXur3XgZsgHaEo&w=316&h=197&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+      "title": "Tonkatsu Ramen",
+      "description": "Our bespoke ramen comes with handmade noodles, a wide array of toppings and homemade broth.",
+      "price": "$8"
+    },
+    {
+      "id": 3,
+      "image": "https://www.bing.com/th?id=OIP.v7nKxpbPY0aXmXur3XgZsgHaEo&w=316&h=197&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+      "title": "Teriyaki Donburi",
+      "description": "A crown pleaser, our homemade teriyaki sauce served with chicken or tofu and greens.",
+      "price": "$10"
+    },
+    {
+      "id": 4,
+      "image": "https://www.bing.com/th?id=OIP.v7nKxpbPY0aXmXur3XgZsgHaEo&w=316&h=197&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+      "title": "Vermicelli Donburi",
+      "description": "Modern fusion dish combining rice noodles with a classic rice bowl. Vegetarian option available.",
+      "price": "$9"
+    },
+    {
+      "id": 5,
+      "image": "https://www.bing.com/th?id=OIP.v7nKxpbPY0aXmXur3XgZsgHaEo&w=316&h=197&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+      "title": "Nigiri Plate",
+      "description": "A selection of our finest nigiri: choose from salmon, tuna, tilapia, surimi, prawns and vegetarian options.",
+      "price": "$15"
+    },
+    {
+      "id": 6,
+      "image": "https://www.bing.com/th?id=OIP.v7nKxpbPY0aXmXur3XgZsgHaEo&w=316&h=197&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+      "title": "GRILLED BEEF",
+      "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+      "price": "$23"
+    }
+  ],
+  "dashboard": [
+    {
+      "posts": 5,
+      "likes": 100,
+      "followers": 200,
+      "following": 10
+    }
+  ]
+}
